@@ -1,0 +1,104 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Hw2" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.Hw2.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Hw2.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.Hw2.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+
+
+    <color name="lavand">"#A288E3"</color>
+    <color name="pale_lavand">"#AF9ED8"</color>
+    <color name="dark_lavand">"#6D458F"</color>
+    <color name="light_lavand">"#B8A8E0"</color>
+    <color name="pink_lavand">"#E2D7FF"</color>
+    <color name="cool_lavand">"#A388C3"</color>
+    <color name="cold_purple">"#18023B"</color>
+    <color name="sky_blue">"#B8C3F1"</color>
+    <color name="meduim_lavand">"#8E77C8"</color>
+    <color name="bright_lavand">"#C1B0ED"</color>
+
+
+    <style name="b45">
+        <item name="android:fontFamily">@font/montserrat_black</item>
+        <item name="android:textSize">45sp</item>
+
+    </style>
+
+    <style name="b40">
+        <item name="android:fontFamily">@font/montserrat_black</item>
+        <item name="android:textSize">40sp</item>
+
+    </style>
+
+    <style name="b35">
+        <item name="android:fontFamily">@font/montserrat_black</item>
+        <item name="android:textSize">35sp</item>
+
+    </style>
+
+    <style name="b30">
+        <item name="android:fontFamily">@font/montserrat_black</item>
+        <item name="android:textSize">30sp</item>
+
+    </style>
+
+    <style name="b25">
+        <item name="android:fontFamily">@font/montserrat_black</item>
+        <item name="android:textSize">25sp</item>
+
+    </style>
+
+    <style name="semi25">
+        <item name="android:textSize">25sp</item>
+        <item name="fontFamily">@font/montserrat_semibold</item>
+
+    </style>
+
+    <style name="semi20">
+        <item name="android:fontFamily">@font/montserrat_semibold</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="semi15">
+        <item name="android:textSize">15sp</item>
+        <item name="fontFamily">@font/montserrat_semibold</item>
+
+    </style>
+
+    <style name="semi10">
+        <item name="android:textSize">10sp</item>
+        <item name="fontFamily">@font/montserrat_semibold</item>
+    </style>
+
+    <style name="n15">
+        <item name="android:textSize">15sp</item>
+        <item name="fontFamily">@font/montserrat_medium</item>
+    </style>
+
+    <style name="l15">
+        <item name="android:textSize">15sp</item>
+        <item name="fontFamily">@font/montserrat_light</item>
+    </style>
+
+
+</resources>
