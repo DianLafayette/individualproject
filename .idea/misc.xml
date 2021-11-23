@@ -4,8 +4,16 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/TSI/hw2/app/src/main/res/layout/acc.xml" value="0.176" />
+        <entry key="..\:/TSI/hw2/app/src/main/res/layout/activity_acc.xml" value="0.2" />
+        <entry key="..\:/TSI/hw2/app/src/main/res/layout/activity_create.xml" value="0.25416666666666665" />
         <entry key="..\:/TSI/hw2/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/TSI/hw2/app/src/main/res/layout/activity_mainmenu.xml" value="0.25416666666666665" />
+        <entry key="..\:/TSI/hw2/app/src/main/res/layout/activity_most_popular.xml" value="0.264" />
+        <entry key="..\:/TSI/hw2/app/src/main/res/layout/activity_search.xml" value="0.2" />
+        <entry key="..\:/TSI/hw2/app/src/main/res/layout/activity_t1.xml" value="0.12" />
+        <entry key="..\:/TSI/hw2/app/src/main/res/layout/activity_t2.xml" value="0.180078125" />
         <entry key="..\:/TSI/hw2/app/src/main/res/layout/activity_test.xml" value="0.264" />
+        <entry key="..\:/TSI/hw2/app/src/main/res/layout/activity_welcome.xml" value="0.2" />
         <entry key="..\:/TSI/hw2/app/src/main/res/layout/create.xml" value="0.2" />
         <entry key="..\:/TSI/hw2/app/src/main/res/layout/most_popular.xml" value="0.176" />
         <entry key="..\:/TSI/hw2/app/src/main/res/layout/search.xml" value="0.176" />

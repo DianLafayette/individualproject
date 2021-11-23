@@ -95,7 +95,7 @@
     <string name="inktober_2021">Inktober 2021</string>
     <string name="inctober_2021">Inctober 2021</string>
     <string name="by_liam_deli">By Liam Deli</string>
-    <string name="salloween">Salloween</string>
+    <string name="salloween1">Salloween</string>
     <string name="by_portablemoose">By Portablemoose</string>
     <string name="mermay">Mermay</string>
     <string name="by_light">By Light</string>
@@ -128,4 +128,8 @@
     <string name="add_pic">add pic</string>
     <string name="create_portfolio">Create Portfolio</string>
     <string name="description">Description</string>
+    <string name="by_dian_lafayette">by Dian Lafayette</string>
+    <string name="salloween">Salloween</string>
+    <string name="sal1">Salloween!</string>
+    <string name="sal">Sal</string>
 </resources>

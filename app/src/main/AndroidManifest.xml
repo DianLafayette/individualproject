@@ -10,6 +10,27 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Hw2">
         <activity
+            android:name=".t2"
+            android:exported="true" />
+        <activity
+            android:name=".t1"
+            android:exported="true" />
+        <activity
+            android:name=".CreateActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AccActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SearchActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MostPopularActivity"
+            android:exported="true" />
+        <activity
+            android:name=".WelcomeActivity"
+            android:exported="true" />
+        <activity
             android:name=".test"
             android:exported="true" />
         <activity
